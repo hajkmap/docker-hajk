@@ -9,3 +9,6 @@ A containerized Hajk solution with everything you need supplied. Just run `docke
 ## Quick start
 1. `docker compose up`. Add `-d` if you want to run it in production and make Hajk restart on server reboot.
 1. Hajk will launch on `localhost:3002`. The Admin UI is accessible on `localhost:3002/admin`. 
+
+## About Docker
+Docker and the Docker logo are trademarks or registered trademarks of Docker, Inc. in the United States and/or other countries. Docker, Inc. and other parties may also have trademark rights in other terms used herein.
